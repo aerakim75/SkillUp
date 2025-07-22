@@ -19,8 +19,9 @@ This is a responsive landing page for an online course platform called **SkillUp
 - Responsive layout
 - Footer with social links
 
-
 ## 🧪 JavaScript Used For
+
 - Dark mode toggle
+
 
 Made by **Ankita Kumari** ✨
